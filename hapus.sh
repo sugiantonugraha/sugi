@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script hapus user SSH
-# Created by Bustami Arifin
+# Created by sugi nn
 
 read -p "Nama user SSH yang akan dihapus : " Nama
 
