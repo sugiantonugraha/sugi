@@ -1,2 +1,2 @@
 # sugi nn
-script auto install vps os debian7
+script auto install vps os debian7_32bit
