@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Script Copyright www.fornesia.com
-# Mod by Bustami Arifin
+# by sugi nn
 # ==========================
 # 
 
@@ -50,4 +50,4 @@ echo "------------------------------------------------"
 
 echo "";
 
-echo "Mod by Bustami Arifin";
+echo "by sugi nn";
