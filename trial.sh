@@ -1,7 +1,7 @@
 #!/bin/bash
 #Script auto create trial user SSH
 #yg akan expired setelah 1 hari
-#modified by Bustami Arifin
+#by sugi nn
 
 IP=`dig +short myip.opendns.com @resolver1.opendns.com`
 
@@ -16,10 +16,10 @@ echo -e "====Trial SSH Account===="
 echo -e "Host: $IP" 
 echo -e "Port OpenSSH: 22,143"
 echo -e "Port Dropbear: 80,443"
-echo -e "Port Squid: 8080,3128"
+echo -e "Port Squid: 80,8080,8000,3128"
 echo -e "Config OpenVPN (TCP 1194): http://$IP:81/client.ovpn"
 echo -e "Username: $Login"
 echo -e "Password: $Pass\n"
 echo -e "========================="
-echo -e "Mod by Bustami Arifin"
+echo -e "by sugi nn"
 echo -e ""
